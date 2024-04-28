@@ -1,7 +1,7 @@
 import 'dart:ui';
 
 class ColorSharedConstant{
-  static const colorBackWhite = Color(0xFFFFFFFF);
+  static const colorBackWhite =  Color(0xFFFFFFFF);
   static const colorTitleBlue = Color(0xFF002060);
   static const slateTitleInputBlue = Color(0xFF597393);
   static const colorPlaceHolderGrey = Color(0xFF5F5F5F);
